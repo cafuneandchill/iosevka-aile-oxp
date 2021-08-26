@@ -1,0 +1,11 @@
+{
+	identifier = "oolite.oxp.cafune_and_chill.FontIosevkaAile";
+	version = "1.0";
+	title = "Font: Iosevka Aile";
+	required_oolite_version = "1.79";
+	description = "Iosevka Aile Font";
+	category = "Ambience";
+	tags = ("Fonts");
+	author = "cafune_and_chill";
+	license = "DWTFYW Public Licence";
+}
